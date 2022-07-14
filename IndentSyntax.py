@@ -32,4 +32,10 @@ As long as it stays the same number
 
 ''' 
 
-#ps, not sure if you want an entirely different py file for comment example
+# Variables
+
+X = 5
+Y = "Hello World"
+
+# X is a variable which, when called upon, will give (in this case) an intiger = to 5, and same thing with y
+
